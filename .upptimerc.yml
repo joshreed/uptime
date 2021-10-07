@@ -4,11 +4,7 @@ repo: uptime # The name of this repository
 
 sites:
   - name: ModernEyes
-    url: https://www.moderneyesomaha.com
-  - name: Transformed by Tough Times
-    url: https://transformedbytoughtimes.com
-  - name: Restoration Coffee
-    url: https://restoration.coffee
+    url: https://www.moderneyesomaha.com/status
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
