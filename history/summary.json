@@ -4,7 +4,7 @@
     "url": "https://www.moderneyesomaha.com/status",
     "icon": "https://favicons.githubusercontent.com/www.moderneyesomaha.com",
     "slug": "modern-eyes",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 450,
     "timeYear": 390,
     "dailyMinutesDown": {
+      "2022-01-10": 0,
       "2021-12-27": 134,
       "2021-12-26": 433,
       "2021-12-13": 11,
