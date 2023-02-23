@@ -4,7 +4,7 @@
     "url": "https://www.moderneyesomaha.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/www.moderneyesomaha.com.ico",
     "slug": "modern-eyes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 233,
     "timeYear": 287,
     "dailyMinutesDown": {
+      "2023-02-23": 0,
       "2022-11-14": 1154,
       "2022-11-13": 1440,
       "2022-11-12": 1440,
