@@ -6,14 +6,14 @@
     "slug": "modern-eyes",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "98.75%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.08%",
+    "uptimeYear": "99.10%",
     "time": 311,
-    "timeDay": 289,
-    "timeWeek": 238,
-    "timeMonth": 240,
+    "timeDay": 302,
+    "timeWeek": 232,
+    "timeMonth": 246,
     "timeYear": 287,
     "dailyMinutesDown": {
       "2023-02-23": 18,
@@ -30,8 +30,7 @@
       "2022-07-13": 24,
       "2022-06-23": 40,
       "2022-04-26": 16,
-      "2022-03-27": 141,
-      "2022-02-25": 26
+      "2022-03-27": 141
     }
   }
 ]
