@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.moderneyesomaha.com.ico",
     "slug": "modern-eyes",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
-    "timeDay": 463,
-    "timeWeek": 301,
-    "timeMonth": 272,
-    "timeYear": 261,
+    "timeDay": 128,
+    "timeWeek": 273,
+    "timeMonth": 269,
+    "timeYear": 260,
     "dailyMinutesDown": {}
   }
 ]
