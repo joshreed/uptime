@@ -4,17 +4,19 @@
     "url": "https://www.moderneyesomaha.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/www.moderneyesomaha.com.ico",
     "slug": "modern-eyes",
-    "status": "down",
+    "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 264,
-    "timeDay": 338,
-    "timeWeek": 286,
-    "timeMonth": 287,
+    "timeDay": 252,
+    "timeWeek": 271,
+    "timeMonth": 283,
     "timeYear": 273,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-12": 14
+    }
   }
 ]
