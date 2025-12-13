@@ -6,17 +6,15 @@
     "slug": "modern-eyes",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 264,
-    "timeDay": 252,
-    "timeWeek": 271,
-    "timeMonth": 283,
+    "timeDay": 263,
+    "timeWeek": 270,
+    "timeMonth": 288,
     "timeYear": 273,
-    "dailyMinutesDown": {
-      "2025-12-12": 14
-    }
+    "dailyMinutesDown": {}
   }
 ]
